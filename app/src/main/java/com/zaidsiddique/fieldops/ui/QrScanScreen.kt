@@ -1,3 +1,5 @@
+@file:androidx.annotation.OptIn(markerClass = [androidx.camera.core.ExperimentalGetImage::class])
+
 package com.zaidsiddique.fieldops.ui
 
 import android.Manifest
